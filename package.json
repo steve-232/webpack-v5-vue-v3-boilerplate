@@ -1,6 +1,6 @@
 {
   "name": "webpack-v5-vue-v3-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Powerful and flexible configuration designed to simplify Vue Web App development experience. Built with the latest versions of Vue (v3) and Webpack (v5), this configuration comes with additional tools and plugins that ensure smoother development and better code quality.",
   "homepage": "https://github.com/steve-232/webpack-v5-vue-v3-boilerplate",
   "main": "src/index.js",
@@ -15,7 +15,11 @@
   "keywords": [
     "webpack",
     "webpack v5",
-    "boilerplate"
+    "boilerplate",
+    "starter template",
+    "vue",
+    "vue v3",
+    "composition api"
   ],
   "author": {
     "name": "steve-232",
